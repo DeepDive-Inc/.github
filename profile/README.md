@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.deepdive.sh/wp-content/uploads/2024/11/logo.tp_-1024x1024.png" width="300px">
+<img src="https://www.deepdive.sh/media/logo.tp.png" width="300px">
 <h1>Hi 👋, We're DeepDive!</h1>
 <h3>Expert in Web Development</h3>
 </div>
